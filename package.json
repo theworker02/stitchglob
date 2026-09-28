@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/stitchglob",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Stitch identifiers and glob tokens for idempotent workflows.",
+  "bin": {
+    "stitchglob": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/stitchglob.git"
+  },
+  "homepage": "https://theworker02.github.io/stitchglob/",
+  "keywords": [
+    "stitch",
+    "glob",
+    "id",
+    "cli",
+    "toolkit"
+  ]
+}
